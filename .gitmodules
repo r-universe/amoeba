@@ -1,5 +1,23 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/amoeba/universe
 	shallow = true
 	branch = HEAD
+[submodule "eatocsv"]
+	path = eatocsv
+	url = https://github.com/amoeba/eatocsv
+	shallow = true
+	branch = master
+	registered = true
+[submodule "pkgsci"]
+	path = pkgsci
+	url = https://github.com/amoeba/pkgsci
+	shallow = true
+	branch = master
+	registered = true
+[submodule "upriver"]
+	path = upriver
+	url = https://github.com/amoeba/upriver
+	shallow = true
+	branch = master
+	registered = true
