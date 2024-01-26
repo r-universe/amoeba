@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/amoeba/universe
+	url = https://github.com/amoeba/amoeba.r-universe.dev
 	branch = HEAD
 [submodule "eatocsv"]
 	path = eatocsv
